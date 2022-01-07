@@ -13,7 +13,7 @@
   <p>Below are some of the places you can explore on my website!</p>
     <ul>
         <li><a href="atom.io">My Weekly Blogs & Documentations</a></li>
-        <li><a href="www.google.com">Contact Me Here!</a></li>
+        <li><a href="/html/body/div[5]/embed">Contact Me Here!</a></li>
     </ul>
     <h2>Make yourself comfortable here!</h2>
     <img src="https://consumervaluecreation.files.wordpress.com/2018/03/html-rapid-prototyping-feature-image.jpg">
