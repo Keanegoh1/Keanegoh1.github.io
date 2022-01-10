@@ -1,8 +1,12 @@
+<!DOCTYPE html>
 <html>
   <head>
     <h1>My Journey in Digital Fabrication & Prototyping Fundamentals (EP1000)</h1>
   </head>
 <body>
+    <div style="background-image:url('https://user-images.githubusercontent.com/93360827/148720794-2918c04f-8146-49e7-9584-cc3333b509e0.jpg');">
+</body>
+  <body>
     <h2>About Me</h2>
     <p>Hello! I am Goh Yi-Herng Keane currently studying in my 3rd year for a Diploma
   in Architecture in SP. Throughout my time in SP, we are given a chance each year to pick up
