@@ -3,7 +3,7 @@
     <h1>My Journey in Digital Fabrication & Prototyping Fundamentals (EP1000)</h1>
   </head>
 <head>
-    <style type="text/css">
+    <style type="css">
         h1 {
             text-align: center;
         }
