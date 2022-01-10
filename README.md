@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
   <head>
     <h1>My Journey in Digital Fabrication & Prototyping Fundamentals (EP1000)</h1>
