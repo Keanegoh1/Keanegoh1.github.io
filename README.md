@@ -3,12 +3,8 @@
     <h1>My Journey in Digital Fabrication & Prototyping Fundamentals (EP1000)</h1>
   </head>
 <head>
-    <style type="css">
-        h1 {
-            text-align: center;
-        }
- 
-        #ex {
+    <style>
+      {
             text-align: center;
             background-image:
 url("https://user-images.githubusercontent.com/93360827/148720794-2918c04f-8146-49e7-9584-cc3333b509e0.jpg'");
