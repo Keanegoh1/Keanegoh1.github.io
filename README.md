@@ -4,11 +4,7 @@
   </head>
 <div style="background-image:url(https://user-images.githubusercontent.com/93360827/148720794-2918c04f-8146-49e7-9584-cc3333b509e0.jpg);
 		background-repeat:repeat;
-		background-attachment:fixed;
-		overflow:scroll;
-		width:170px;
-		height:100px;
-		line-height:2em;">
+		background-attachment:fixed;">
   <a href="/css/properties/css_background-attachment.cfm"><code>
     </code></a>
   </div>
