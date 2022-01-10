@@ -4,8 +4,6 @@
   </head>
 <div style="background-image:url(https://user-images.githubusercontent.com/93360827/148720794-2918c04f-8146-49e7-9584-cc3333b509e0.jpg);
 		background-attachment:fixed;">
-  <a href="/css/properties/css_background-attachment.cfm"><code>
-    </code></a>
   </div>
   <body>
     <h2>About Me</h2>
