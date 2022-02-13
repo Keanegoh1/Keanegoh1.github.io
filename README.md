@@ -1,4 +1,4 @@
-<html>
+d<html>
   <head>
     <h1>My Journey in Digital Fabrication & Prototyping Fundamentals (EP1000)</h1>
   </head>
@@ -92,5 +92,5 @@
 	   <p> Yellow-White Light </p>
 <img src="https://user-images.githubusercontent.com/93360827/153741382-fe62e342-6ec8-4d3e-8032-ce7f89f077e1.jpeg">
 
-
+</body>
 </html>
