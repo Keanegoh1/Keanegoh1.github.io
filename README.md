@@ -16,7 +16,7 @@ d<html>
   <p>Below are some of the places you can explore on my website!</p>
     <ul>
         <li><a href="https://github.com/Keanegoh1/keanegoh1.github.io/blob/main/README.md#my-blogs--documentations">My Weekly Tutorial Blogs & Documentations</a></li>
-        <li><a href="https://keanegoh1.github.io/">Module Project Documentation</a></li>
+        <li><a href="Module Project.txt">Module Project Documentation</a></li>
     </ul>
     <h2>Make yourself comfortable!</h2>
     <img src="https://consumervaluecreation.files.wordpress.com/2018/03/html-rapid-prototyping-feature-image.jpg">
