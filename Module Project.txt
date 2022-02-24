@@ -1,0 +1,50 @@
+<html>
+  <body>
+   <h2>Module Project Documentation</h2>
+    <p>For our module project, I have decided to design a Christmas tree designed Mood Lighting.</p>
+	  <p>This project would require...</p>
+	      <ul>
+        <li>Arduino Uno</li>
+        <li>Breadboard</li>
+	<li>Neopixel Strip (4 Lights)</li>
+	<li>Pushbutton</li>
+  	<li>Jumper Pins</li>
+    </ul>
+<h3>Design Process</h3> 
+	  <p> The software I have decided to use as part of my design phase was SketchUp, a modelling software.</p>
+	  <p> Using SketchUp, I drafted a rough model of how the design would look like as shown below, by creating 2 parts, first the base board, then the second being the acrylic mood piece that holds the christmas tree design to it, which I will use a separate software to create.</p>
+	  <img src="https://user-images.githubusercontent.com/93360827/153740879-b4373561-b5a8-4c88-b554-010117c90a8d.jpeg"><img src="https://user-images.githubusercontent.com/93360827/153740936-293a73eb-a493-4b02-bb3f-1ba783b83022.jpeg">  
+	  <p> For the 2nd piece, I opted to use AutoCAD to generate the design of the Christmas Tree as well as export both the SketchUp Base pieces and Christmas Tree design to DXF files, preparing them for laser cutting.</p>
+	  <img src="https://user-images.githubusercontent.com/93360827/153740966-8aed38d4-129e-4fb0-b6b1-053c17796743.jpeg"><img src="https://user-images.githubusercontent.com/93360827/153740982-a3019993-8c2a-4bd6-9034-6ba383c4d17d.jpeg"><img src="https://user-images.githubusercontent.com/93360827/153741001-3f8043c4-e5fc-4ae0-8528-aa467c758a0f.jpeg"><img src="https://user-images.githubusercontent.com/93360827/153741004-a2d30c00-dfd8-45dd-9849-4c50172e3c38.jpeg">
+<h3>Arduino Programming</h3> 
+	<p> Before carrying out the actual live programming, I used TinkerCAD to help simulate and test the entire coding experiment, as well as wiring as shown below.</p>
+	  <img src="https://user-images.githubusercontent.com/93360827/153741110-ff98b045-b8b1-4187-8cb8-830919b73b25.jpeg">
+	  <p> Making use of prior prepared basic coding for NeoPixel Strips, I added on to it different types of coding that helped to generate the outcome I wanted, for example,</p>
+	  <img src="https://user-images.githubusercontent.com/93360827/153741154-f22ae483-f267-4b42-a129-0769569ccea4.jpeg">
+	  <p> Adding multiple colour codes that changes on a click of the pushbutton, in total 6 different colours and a "Black/Blank" colour that acts as an "off" section.</p>
+	  <img src="https://user-images.githubusercontent.com/93360827/153741189-7f51408d-7a67-498a-9799-59d46707f500.jpeg">
+	  <p> This set of coding then loops the entire process back to allow for the colours to repeat themselves and can operate separately as long as theres a power supply connected to it. </p>
+<h3>Assembly</h3> 
+	  <p>Now that both the Model and the Programming works, it comes to the assembly part...</p>
+	  <p>Assembling the Arduino Circuit and the Base box</p>
+	  <img src="https://user-images.githubusercontent.com/93360827/153741253-36ac0aa4-ccf4-47c4-9455-f396da1b4480.jpeg"><img src="https://user-images.githubusercontent.com/93360827/153741266-9e1263e7-37e1-492d-b8f5-302fec0cc4ff.jpeg">
+	  <p>Then creating a platform base for the NeoPixel strip to rest on to produce the light straight up to the Acrylic</p>
+	  <img src="https://user-images.githubusercontent.com/93360827/153741307-85595602-7fc9-44c7-af67-9f37a0dc35ab.jpeg"><img src="https://user-images.githubusercontent.com/93360827/153741321-4f1dcd3f-43df-44fe-a319-a250a3794973.jpeg"><img src="https://user-images.githubusercontent.com/93360827/153741329-76afe2a3-3bb5-4766-b2a3-3f85ec0b457a.jpeg">
+	  <p>The Final Product!</p>
+		  <img src="https://user-images.githubusercontent.com/93360827/153741339-b9f04505-bfd2-498e-8e26-3b850d19c61d.jpeg">
+	  <h3>Testing the Lights!</h3>
+	  <p> Green Light </p>
+<img src="https://user-images.githubusercontent.com/93360827/153741377-12acefbb-bbac-41d6-9814-c197f23b70a1.jpeg">
+	   <p> Orange Light </p>
+<img src="https://user-images.githubusercontent.com/93360827/153741378-33b62235-5e59-4180-a562-e3cf6dda708b.jpeg">
+	   <p> Red Light </p>
+<img src="https://user-images.githubusercontent.com/93360827/153741379-9b3861af-c069-4697-a780-bd0bb9fad5a3.jpeg">
+	   <p> Blue Light </p>
+<img src="https://user-images.githubusercontent.com/93360827/153741380-939e7c06-2cb3-4251-b0f4-b8c50d991b95.jpeg">
+	   <p> Magenta Light </p>
+<img src="https://user-images.githubusercontent.com/93360827/153741381-40aef31e-50dd-44dd-a6b7-c938e7f66959.jpeg">
+	   <p> Yellow-White Light </p>
+<img src="https://user-images.githubusercontent.com/93360827/153741382-fe62e342-6ec8-4d3e-8032-ce7f89f077e1.jpeg">
+
+</body>
+</html>
