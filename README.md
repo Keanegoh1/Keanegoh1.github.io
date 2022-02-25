@@ -1,4 +1,4 @@
-d<html>
+<html>
   <head>
     <h1>My Journey in Digital Fabrication & Prototyping Fundamentals (EP1000)</h1>
   </head>
@@ -41,6 +41,40 @@ d<html>
    <img src="https://user-images.githubusercontent.com/93360827/148562926-b29dff91-ae8d-4176-bac4-290c7df29014.jpeg" width=500>
    <p>After cutting, all I needed to do is to assemble and I get my musical box...</p>
    <img src="https://user-images.githubusercontent.com/93360827/148563283-dad846e4-8007-41cf-a126-038f3ae2984e.jpeg" width=300><img src="https://user-images.githubusercontent.com/93360827/148563325-e255983c-d504-47f7-ad54-1e2769afd1d8.jpeg" width=300>
+
+	 <h3>Arduino Uno</h3>
+<p>I also got to learn Arduino Programming. The Arduino Uno is an open-source microcontroller board that is equipped with sets of digital and analog input/output pins that may be interfaced to various expansion boards and other circuits.</p> 
+    	<img src="https://docs.arduino.cc/static/6ec5e4c2a6c0e9e46389d4f6dc924073/A000066-pinout.png">
+	
+<h3>Input and Output Devices</h3>
+	 <p>An input device is connected to the Arduino Uno that is programmed through the Arduino Uno while an output device has information sent to it. The button in this case is used to operate the LED bulb</p>
+	<img src="https://cdn.sparkfun.com//assets/parts/9/0/00097-03-L.jpg">
+	 <p>Below shows an example of the LED bulb.</p>
+	<img src="https://media.rs-online.com/t_large/F2285988-01.jpg">
+<p>As a push button switch is a small and sealed mechanism that completes an electric circuit when you press on it, a resistor is needed to step-down the current to allow it to transmit through and alternate with the LED bulb. </p>
+	 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Electronic-Axial-Lead-Resistors-Array.jpg/1200px-Electronic-Axial-Lead-Resistors-Array.jpg">
+	 <p> With the items above, I used tinkerCAD to simulate the entire circuit with the coding given below, by alternating the current to allow the button to work with the LED bulb such that when activated, the current flows through the alternate route through the LED bulb that lights it up. </p>
+	 <img src="https://user-images.githubusercontent.com/93360827/155739881-8efc56df-e79f-454c-899a-0989e6f1e73a.jpeg">
+
+<p>int buttonState = 0;
+
+void setup()
+{
+  pinMode(2, INPUT);
+  pinMode(13, OUTPUT);
+}
+
+void loop()
+{
+  buttonState = digitalRead(2);
+  
+  if(buttonState == HIGH) {
+    digitalWrite(13, HIGH);
+  } else {
+    digitalWrite(13, LOW);
+  }
+  delay(10);
+	}</p>
 </body>
 </html>
 
