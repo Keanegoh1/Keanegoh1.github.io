@@ -53,7 +53,7 @@
 	 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Electronic-Axial-Lead-Resistors-Array.jpg/1200px-Electronic-Axial-Lead-Resistors-Array.jpg">
 	 <p> With the items above, I used tinkerCAD to simulate the entire circuit with the simple coding given below, by alternating the current to allow the button to work simultaneously with the LED bulb such that when activated, the current flows through the alternate route through the LED bulb that lights it up. </p>
 	 <img src="https://user-images.githubusercontent.com/93360827/155739881-8efc56df-e79f-454c-899a-0989e6f1e73a.jpeg">
-
+<p>Arduino Coding</p>
 <p>int buttonState = 0;
 
 void setup()
