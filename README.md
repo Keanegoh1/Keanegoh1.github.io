@@ -41,11 +41,9 @@
    <img src="https://user-images.githubusercontent.com/93360827/148562926-b29dff91-ae8d-4176-bac4-290c7df29014.jpeg" width=500>
    <p>After cutting, all I needed to do is to assemble and I get my musical box...</p>
    <img src="https://user-images.githubusercontent.com/93360827/148563283-dad846e4-8007-41cf-a126-038f3ae2984e.jpeg" width=300><img src="https://user-images.githubusercontent.com/93360827/148563325-e255983c-d504-47f7-ad54-1e2769afd1d8.jpeg" width=300>
-
 <h3>Arduino Uno</h3>
 <p>I also got to learn Arduino Programming. The Arduino Uno is an open-source microcontroller board that is equipped with sets of digital and analog input/output pins that may be interfaced to various expansion boards and other circuits.</p> 
     	<img src="https://docs.arduino.cc/static/6ec5e4c2a6c0e9e46389d4f6dc924073/A000066-pinout.png">
-	
 <h3>Input and Output Devices</h3>
 	 <p>An input device is connected to the Arduino Uno that is programmed through the Arduino Uno while an output device has information sent to it. The button in this case is used to operate the LED bulb</p>
 	<img src="https://cdn.sparkfun.com//assets/parts/9/0/00097-03-L.jpg">
